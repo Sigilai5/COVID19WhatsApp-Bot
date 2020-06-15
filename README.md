@@ -15,6 +15,10 @@ Technologies Used.
 - Django
 - Twilio
 
+
+
 ##API 
 https://rapidapi.com/Yatko/api/coronavirus-map?endpoint=apiendpoint_158e48c7-634a-4654-b4a8-2ddf896cb656
 
+#Disclaimer
+The Chatbot will stop working on Tuesday 15 September 2020
